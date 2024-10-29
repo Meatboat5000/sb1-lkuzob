@@ -1,0 +1,39 @@
+:root[data-theme="sunset"] {
+  --bg-primary: #1a237e;
+  --bg-secondary: #0d1117;
+  --text-primary: #ffffff;
+  --text-secondary: #94a3b8;
+  --accent-primary: #00bcd4;
+  --accent-gradient: linear-gradient(90deg, #2196f3, #00bcd4);
+  --button-hover: #1976d2;
+}
+
+:root[data-theme="arcade"] {
+  --bg-primary: #2e1065;
+  --bg-secondary: #0d1117;
+  --text-primary: #ffffff;
+  --text-secondary: #94a3b8;
+  --accent-primary: #6366f1;
+  --accent-gradient: linear-gradient(90deg, #6366f1, #a855f7);
+  --button-hover: #4f46e5;
+}
+
+:root[data-theme="cyber"] {
+  --bg-primary: #18181b;
+  --bg-secondary: #0d1117;
+  --text-primary: #f9fafb;
+  --text-secondary: #94a3b8;
+  --accent-primary: #ec4899;
+  --accent-gradient: linear-gradient(90deg, #ec4899, #8b5cf6);
+  --button-hover: #db2777;
+}
+
+:root[data-theme="retrowave"] {
+  --bg-primary: #2e1065;
+  --bg-secondary: #0d1117;
+  --text-primary: #fcd34d;
+  --text-secondary: #94a3b8;
+  --accent-primary: #f59e0b;
+  --accent-gradient: linear-gradient(90deg, #f59e0b, #ec4899);
+  --button-hover: #d97706;
+}
